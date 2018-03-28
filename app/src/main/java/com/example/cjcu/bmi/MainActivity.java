@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                 .setPositiveButton("確定",null)
                 .setNegativeButton("CANCEL",null)
                 .show();
-                .show();
+
 
         
     }
